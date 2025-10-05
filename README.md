@@ -1,2 +1,7 @@
 # delta-demo3
 This is demo for git and github class 3.
+
+# Teacher
+Sumit sir
+# Student
+Delta 
