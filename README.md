@@ -2,6 +2,6 @@
 This is demo for git and github class 3.
 
 # Teacher
-Sumit sir
+Sumit sir.
 # Student
-Delta 
+Delta .
